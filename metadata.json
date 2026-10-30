@@ -1,0 +1,6 @@
+{
+  "name": "AfriTalent Global",
+  "description": "Plateforme de recrutement international reliant les talents d'Afrique aux entreprises du Canada, de Suisse, de Nouvelle-Zélande, de France et d'Irlande avec accompagnement visa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
